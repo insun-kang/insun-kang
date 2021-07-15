@@ -10,12 +10,12 @@
 
 ### I want to become a **BACKEND DEVELOPER**
 
-### CONTACT
+### :email: CONTACT
 * EMAIL : sunink1@naver.com
 
 <br />
 
-### 🛠 Stack
+### :wrench: Stack 
 
 |**Languages**|![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-c++-00599C?&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white)|
 |---|---------|
@@ -25,7 +25,7 @@
 |**OS**|![WINDOW](https://img.shields.io/badge/-WINDOW-0078D6?&logo=WINDOW&logoColor=white) ![LINUX](https://img.shields.io/badge/-LINUX-FCC624?&logo=LINUX&logoColor=white)|
 
 
-### 💫 Experience
+### :running: Experience
 - **SSAFY** - Samsung SW Academy For Youth 6th (Web Full-Stack Course) (Jul 2021 ~ Jun 2022) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 - **Elice** - AI Service Planning and Development Track 1st (Web Full-Stack Course) (Dec 2020 ~ Jun 2021) [:link:](https://elicetrack.oopy.io/)
 
