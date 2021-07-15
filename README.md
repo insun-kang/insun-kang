@@ -1,6 +1,6 @@
 <div align="right">
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongHwan-dev&count_bg=%23769CDD&title_bg=%238E8E8E&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finsun-kang&count_bg=%23769CDD&title_bg=%238E8E8E&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right" />
   </a>
 </div> 
 
