@@ -6,7 +6,7 @@
 
 
 
-## Welcom my github!! 👋
+## Welcome my github!! 👋
 
 ### I want to become a **BACKEND DEVELOPER**
 
