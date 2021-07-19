@@ -21,9 +21,8 @@
 |---|---------|
 |**Frameworks/ Libraries**|![Flask](https://img.shields.io/badge/-Flask-000000?&logo=Flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=Bootstrap&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=Pandas&logoColor=white)|
 |**Databases/ ORM**|![Mysql](https://img.shields.io/badge/-Mysql-4479A1?&logo=Mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=white)|
-|**DevOps**|![GIT](https://img.shields.io/badge/-GIT-F05032?&logo=GIT&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white)|
 |**OS**|![WINDOW](https://img.shields.io/badge/-WINDOW-0078D6?&logo=WINDOW&logoColor=white) ![LINUX](https://img.shields.io/badge/-LINUX-FCC624?&logo=LINUX&logoColor=white)|
-
+|**etc**|![GIT](https://img.shields.io/badge/-GIT-F05032?&logo=GIT&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?&logo=Azure&logoColor=white)|
 
 ### :running: Experience
 - **SSAFY** - Samsung SW Academy For Youth 6th (Web Full-Stack Course) (Jul 2021 ~ Jun 2022) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
