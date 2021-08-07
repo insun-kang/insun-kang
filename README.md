@@ -14,7 +14,6 @@
 * EMAIL : sunink1@naver.com
 
 <br />
-
 ### :wrench: Stack 
 
 |**Languages**|![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-c++-00599C?&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white)|
