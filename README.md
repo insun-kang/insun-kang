@@ -19,7 +19,7 @@
 
 |**Languages**|![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white) ![jAVA](https://img.shields.io/badge/-Java-3776AB?&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white)|
 |---|---------|
-|**Frameworks/ Libraries**|![Flask](https://img.shields.io/badge/-Flask-000000?&logo=Flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=Bootstrap&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=Pandas&logoColor=white)|
+|**Frameworks/ Libraries**|![Flask](https://img.shields.io/badge/-Flask-000000?&logo=Flask&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=Bootstrap&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=Pandas&logoColor=white)|
 |**Databases/ ORM**|![Mysql](https://img.shields.io/badge/-Mysql-4479A1?&logo=Mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=white)|
 |**OS**|![WINDOW](https://img.shields.io/badge/-WINDOW-0078D6?&logo=WINDOW&logoColor=white) ![LINUX](https://img.shields.io/badge/-LINUX-FCC624?&logo=LINUX&logoColor=white)|
 |**DevOps**|![GIT](https://img.shields.io/badge/-GIT-F05032?&logo=GIT&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white) ![MicrosoftAzure](https://img.shields.io/badge/-MicrosoftAzure-0078D4?&logo=MicrosoftAzure&logoColor=white)|
