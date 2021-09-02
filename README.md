@@ -27,7 +27,7 @@
 ### :running: Experience
 - **SSAFY** - Samsung SW Academy For Youth 6th (Web Full-Stack Course) (Jul 2021 ~ Jun 2022) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 - **Elice** - AI Service Planning and Development Track 1st (Web Full-Stack Course) (Dec 2020 ~ Jun 2021) [:link:](https://elicetrack.oopy.io/)
-- **DO GOOT HACKATHON** - ( Aug 13 2021 ~ Aug 15 2021)
+- **DO GOOT HACKATHON** - ( Aug 13 2021 ~ Aug 15 2021) [:link:](https://github.com/do-good-morning/do-good-morning)
 
 ## Github Stats
 
