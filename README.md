@@ -25,9 +25,9 @@
 |**DevOps**|![GIT](https://img.shields.io/badge/-GIT-F05032?&logo=GIT&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white) ![MicrosoftAzure](https://img.shields.io/badge/-MicrosoftAzure-0078D4?&logo=MicrosoftAzure&logoColor=white)|
  
 ### :running: Experience
-- **SSAFY** - Samsung SW Academy For Youth 6th (Web Full-Stack Course) (Jul 2021 ~ Jun 2022) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
-- **Elice** - AI Service Planning and Development Track 1st (Web Full-Stack Course) (Dec 2020 ~ Jun 2021) [:link:](https://elicetrack.oopy.io/)
-- **DO GOOD HACKATHON** - ( Aug 13 2021 ~ Aug 15 2021) [:link:](https://github.com/do-good-morning/do-good-morning)
+- **SSAFY** - Samsung SW Academy For Youth 6th (Web Full-Stack Course (Jul 2021 ~ Jun 2022) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+- **Elice** - AI Service Planning and Development Track 1st (Web Full-Stack Course (Dec 2020 ~ Jun 2021) [:link:](https://elicetrack.oopy.io/)
+- **DO GOOD HACKATHON** - Service for Koreans around the world to overcome COVID-19 ( Aug 13 2021 ~ Aug 15 2021) [:link:](https://github.com/do-good-morning/do-good-morning)
 
 ## Github Stats
 
