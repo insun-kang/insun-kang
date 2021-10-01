@@ -29,6 +29,9 @@
 - **Elice** - AI Service Planning and Development Track 1st (Web Full-Stack Course (Dec 2020 ~ Jun 2021) [:link:](https://elicetrack.oopy.io/)
 - **DO GOOD HACKATHON** - Service for Koreans around the world to overcome COVID-19 ( Aug 13 2021 ~ Aug 15 2021) [:link:](https://github.com/do-good-morning/do-good-morning)
 
+### 📝 Certificate
+- **SQLD(21.10.01, KData)**
+
 ## Github Stats
 
 <table>
