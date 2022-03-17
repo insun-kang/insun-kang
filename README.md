@@ -31,13 +31,11 @@
 
 ## Github Stats
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=insun-kang&show_icons=true&count_private=true&theme=react" align="left" style="width: 100%" />
-    </td>
-  </tr>
-</table>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=insun-kang&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0d1017" alt="Github Stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insun-kang&hide_border=true&layout=compact&theme=react&bg_color=0d1017" alt="Top Languages" height="150px" />
+</p>
 
 ## BOJ tier
 [![Solved.ac
