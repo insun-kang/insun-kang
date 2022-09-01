@@ -13,6 +13,9 @@
 * EMAIL : sunink1@naver.com
 
 <br />
+ 
+### :running: Career
+- **LGCNS** - 2021.01.03 ~
 
 ### :wrench: Stack 
 |||
